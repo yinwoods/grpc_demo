@@ -1,3 +1,5 @@
-.my_cache
+.mypy_cache
+client/.mypy_cache
+server/.mypy_cache
 go_client
 go_server
